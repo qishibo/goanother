@@ -77,8 +77,3 @@ This project exists thanks to all the people who contribute.
 [![backers](https://opencollective.com/AnotherRedisDesktopManager/backers.svg)](https://opencollective.com/AnotherRedisDesktopManager)
 
 
-
-## Support
-
-Twitter[@qii404](https://twitter.com/qii404)
-Weibo[@shiboooo](https://weibo.com/shiboooo?is_hot=1)
