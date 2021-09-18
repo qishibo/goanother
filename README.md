@@ -5,7 +5,7 @@
 
 > 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading a large number of keys.
 
-[![MIT](https://img.shields.io/badge/license-MIT-000000.svg)](LICENSE)
+[![MIT](https://img.shields.io/badge/license-MIT-000000.svg)](https://github.com/qishibo/AnotherRedisDesktopManager/blob/master/LICENSE)
 [![twitter @qii404](https://img.shields.io/badge/Twitter-@qii404-blue.svg)](https://twitter.com/qii404)
 [![shiboooo](https://img.shields.io/badge/Weibo-@shiboooo-blue.svg)](https://weibo.com/shiboooo?is_hot=1)
 
@@ -63,7 +63,7 @@ If you are Mac user, you can also:
 
 ## Sponsor
 
-- Give me a star ⭐ in [github](https://github.com/qishibo/AnotherRedisDesktopManager)!
+- Give me a star ⭐ in [Github](https://github.com/qishibo/AnotherRedisDesktopManager)!
 - Through [OpenCollective](https://opencollective.com/AnotherRedisDesktopManager)
 - Wechat sponsor code
 
@@ -76,11 +76,6 @@ This project exists thanks to all the people who contribute.
 [![contributors](https://opencollective.com/AnotherRedisDesktopManager/contributors.svg?width=890&button=false)](https://github.com/qishibo/AnotherRedisDesktopManager/graphs/contributors)
 [![backers](https://opencollective.com/AnotherRedisDesktopManager/backers.svg)](https://opencollective.com/AnotherRedisDesktopManager)
 
-
-
-## License
-
-[MIT](LICENSE)
 
 
 ## Support
