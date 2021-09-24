@@ -1,1 +1,1 @@
-# Website of [goanother.com]('https://goanother.com/')
+# Website of [goanother.com](https://goanother.com/)
