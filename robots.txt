@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /baidu_verify_code-tqmfWozxWN.html
+Disallow: /f8debe69c294e8599d38463de6081aef.txt
+Disallow: /google4a8e7f3e3fa175ee.html
+Disallow: /sogousiteverification.txt
+Sitemap: https://goanother.com/sitemap.xml
