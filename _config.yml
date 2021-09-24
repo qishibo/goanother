@@ -6,3 +6,5 @@ theme: jekyll-theme-cayman
 github:
   gp_repository_url: https://github.com/qishibo/goanother
   repository_url: https://github.com/qishibo/AnotherRedisDesktopManager
+plugins:
+  - jekyll-sitemap
