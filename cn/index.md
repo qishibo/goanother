@@ -1,7 +1,7 @@
 ---
 
 lang: zh-CN
-description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，加载大量的key时也不会崩溃
+description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值
 
 
 ---
@@ -11,14 +11,14 @@ description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼
 
 ## Another Redis Desktop Manager
 
-> <i>支持哨兵, 集群, ssh, ssl, stream, 树结构, 以及暗黑模式.</i>
+> <i>支持哨兵, 集群, ssh通道, ssl认证, stream, 树状视图, 命令行, 以及暗黑模式; 多种格式化方式, 甚至能够自定义格式化脚本, 满足你的一切需求.</i>
 
 [![github @qishibo](https://img.shields.io/badge/Github-@qishibo-blue.svg)](https://github.com/qishibo)
 [![twitter @qii404](https://img.shields.io/badge/Twitter-@qii404-blue.svg)](https://twitter.com/qii404)
 [![shiboooo](https://img.shields.io/badge/Weibo-@shiboooo-blue.svg)](https://weibo.com/shiboooo?is_hot=1)
 
 
-## 飞起!
+## 界面展示
 
 ![redis status dark](https://cdn.jsdelivr.net/gh/qishibo/img/1630655843497-status.png)
 
@@ -45,21 +45,21 @@ description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼
 
 - 2021-08-30: 命令执行日志 && 快捷键
 - 2021-08-16: 自定义文本视图
-- 2021-06-30: 哨兵支持!!
+- 2021-06-30: 哨兵支持
 - 2021-06-24: Redis>=6.0的ACL支持
 - 2021-05-03: Stream 视图支持 && Cli命令行提示
 - 2021-02-28: 链接颜色标记 && 搜索历史提示
 - 2021-02-03: 多选支持 && Msgpack视图支持
-- 2020-12-30: 树状列表!!!
+- 2020-12-30: 树状列表
 - 2020-11-03: Binary视图 && SSH Passparse\Timeout 支持
 - 2020-09-04: SSH 集群支持 
-- 2020-06-18: SSL/TLS 支持!!!
+- 2020-06-18: SSL/TLS 支持
 - 2020-04-28: 页面缩放 && 大键值Scan操作 && 自动Json
 - 2020-04-18: 不可见键值对支持
-- 2020-04-04: 集群支持!!!
-- 2020-03-13: 暗黑模式!!!
+- 2020-04-04: 集群支持
+- 2020-03-13: 暗黑模式
 - 2020-02-16: SSH 私钥支持
-- 2020-02-13: Cli单独Tab打开
+- 2020-02-13: Cli新Tab打开
 - 2019-06-14: 自定义字体支持
 - 2019-05-28: Key列表调节宽度
 - 2019-05-09: Hash List Set Zset搜索支持
@@ -67,7 +67,7 @@ description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼
 - 2019-04-09: SSH 通道支持
 - 2019-04-01: 精确搜索
 - 2019-02-22: 单链接支持
-- 2019-01-08: 项目开始
+- 2019-01-08: 项目孵化
 
 
 
