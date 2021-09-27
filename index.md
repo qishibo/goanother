@@ -1,3 +1,11 @@
+---
+
+lang: en-US
+description: A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
+
+
+---
+
 <img align="right" width="110" src="https://cdn.jsdelivr.net/gh/qishibo/img/202109031653244.png">
 
 ## Another Redis Desktop Manager
@@ -22,9 +30,16 @@
 
 ## Download
 
-**Windows & Linux** Download latest package from [github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) or [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases).
+**Windows**: 
+- Download `exe` from [github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) or [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases).
 
-**Mac** user can:
+**Linux**:
+- Download `AppImage` from [github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) or [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases).
+- Or by snap: `sudo snap install another-redis-desktop-manager`
+<br/>[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/another-redis-desktop-manager)
+
+
+**Mac**:
 - By **brew**: `brew install --cask another-redis-desktop-manager`
 - Or **sponsor** by app store, and then let the app store automatically update it for you.
 <br/>[![app store](https://cdn.jsdelivr.net/gh/qishibo/img/202109031654242.png)](https://apps.apple.com/app/id1516451072)
