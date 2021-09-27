@@ -33,7 +33,13 @@ description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼
 
 ## 下载
 
-**Windows & Linux** 可以在[github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases)下载最新安装包
+**Windows**:
+- 可以在[github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases)下载`exe`安装包
+
+**Linux**：
+- 可以在[github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases)下载`AppImage`包
+- 或者通过snap: `sudo snap install another-redis-desktop-manager`
+<br/>[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/another-redis-desktop-manager)
 
 **Mac** 用户:
 - 通过 **brew**: `brew install --cask another-redis-desktop-manager`
@@ -73,7 +79,7 @@ description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼
 
 ## 赞助
 
-- 在[Github](https://github.com/qishibo/AnotherRedisDesktopManager)上赏一颗⭐
+- 在[Github](https://github.com/qishibo/AnotherRedisDesktopManager)上点颗星⭐⭐
 - 通过 [OpenCollective](https://opencollective.com/AnotherRedisDesktopManager)
 - 通过[App Store](https://apps.apple.com/app/id1516451072)购买赞助
 - 微信赞赏码 [觉得好用就赞助一杯咖啡]
