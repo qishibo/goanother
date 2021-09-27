@@ -2,14 +2,14 @@
 
 ## Another Redis Desktop Manager
 
-> <i>Supports redis-sentinel, redis-cluster, ssh, ssl, tree view, stream, dark mode.</i>
+> <i>Supports redis-sentinel, redis-cluster, ssh-tunnel, ssl-cert, tree view, stream, console, dark mode; Various formatting methods, and even custom formatting scripts, to meet all your needs.</i>
 
 [![github @qishibo](https://img.shields.io/badge/Github-@qishibo-blue.svg)](https://github.com/qishibo)
 [![twitter @qii404](https://img.shields.io/badge/Twitter-@qii404-blue.svg)](https://twitter.com/qii404)
 [![shiboooo](https://img.shields.io/badge/Weibo-@shiboooo-blue.svg)](https://weibo.com/shiboooo?is_hot=1)
 
 
-## Flying!
+## Interface
 
 ![redis status dark](https://cdn.jsdelivr.net/gh/qishibo/img/1630655843497-status.png)
 
@@ -33,20 +33,20 @@
 ## Feature Log
 
 - 2021-08-30: Execution log Support && Add Hot Keys
-- 2021-08-16: Custom Formatter View Support!
-- 2021-06-30: Sentinel Support!!
+- 2021-08-16: Custom Formatter View Support
+- 2021-06-30: Sentinel Support
 - 2021-06-24: ACL Support
 - 2021-05-03: Stream Support && Cli Command Tips Support
 - 2021-02-28: Connection Color Tag && Search History Support
 - 2021-02-03: Multiple Select\Delete && Msgpack Viewer Support
-- 2020-12-30: Tree View Support!!!
+- 2020-12-30: Tree View Support
 - 2020-11-03: Binary View Support && SSH Passparse\Timeout Support
 - 2020-09-04: SSH Cluster Support && Extension Commands Support
-- 2020-06-18: SSL/TLS Support!!!
+- 2020-06-18: SSL/TLS Support
 - 2020-04-28: Page Zoom && Big Key Loads With Scan && Auto Json
 - 2020-04-18: Unvisible Key\Value Format Support
-- 2020-04-04: Cluster Support!!!
-- 2020-03-13: Dark Mode Support!!! && JsonView In Other Place
+- 2020-04-04: Cluster Support
+- 2020-03-13: Dark Mode Support && JsonView In Other Place
 - 2020-02-16: SSH Private Key Support
 - 2020-02-13: Open Cli Console In Tabs
 - 2019-06-14: Custom Font-Family Support
