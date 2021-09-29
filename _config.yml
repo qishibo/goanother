@@ -1,5 +1,5 @@
 title: Another Redis Desktop Manager
-description: A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What’s more, it won’t crash when loading a large number of keys.
+description: A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 show_downloads: false
 google_analytics: G-3YCG7YS3BM
 theme: jekyll-theme-cayman
