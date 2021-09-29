@@ -38,8 +38,8 @@ description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼
 
 **Linux**：
 - 可以在[github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases)下载`AppImage`包
-- 或者通过snap: `sudo snap install another-redis-desktop-manager`
-<br/>[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/another-redis-desktop-manager)
+<!-- - 或者通过snap: `sudo snap install another-redis-desktop-manager`
+<br/>[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/another-redis-desktop-manager) -->
 
 **Mac** 用户:
 - 通过 **brew**: `brew install --cask another-redis-desktop-manager`
