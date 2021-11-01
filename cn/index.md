@@ -35,6 +35,7 @@ description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼
 
 **Windows**:
 - 可以在[github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases)下载`exe`安装包
+- 或者通过**winget**: `winget install qishibo.AnotherRedisDesktopManager`
 
 **Linux**：
 - 可以在[github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases)下载`AppImage`包

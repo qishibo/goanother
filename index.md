@@ -32,6 +32,7 @@ description: A faster, better and more stable redis desktop manager [GUI client]
 
 **Windows**: 
 - Download `exe` from [github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) or [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases).
+- Or by **winget**: `winget install qishibo.AnotherRedisDesktopManager`
 
 **Linux**:
 - Download `AppImage` from [github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) or [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases).
