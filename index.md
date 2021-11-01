@@ -36,8 +36,9 @@ description: A faster, better and more stable redis desktop manager [GUI client]
 
 **Linux**:
 - Download `AppImage` from [github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) or [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases).
-<!-- - Or by snap: `sudo snap install another-redis-desktop-manager`
-<br/>[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/another-redis-desktop-manager) -->
+ - Or by **snap**: `sudo snap install another-redis-desktop-manager`
+ **Tips**: If permission denied when selecting private key, run `sudo snap connect another-redis-desktop-manager:ssh-keys` to give access to ~/.ssh folder.
+<br/>[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/another-redis-desktop-manager)
 
 
 **Mac**:
