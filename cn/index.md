@@ -11,7 +11,7 @@ description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼
 
 ## Another Redis Desktop Manager
 
-> <i>支持哨兵, 集群, ssh通道, ssl认证, stream, 树状视图, 命令行, 以及暗黑模式; 多种格式化方式, 甚至能够自定义格式化脚本, 满足你的一切需求.</i>
+> <i>支持哨兵, 集群, ssh通道, ssl认证, stream, subscribe订阅, 树状视图, 命令行, 以及暗黑模式; 多种格式化方式, 甚至能够自定义格式化脚本, 满足你的一切需求.</i>
 
 [![github @qishibo](https://img.shields.io/badge/Github-@qishibo-blue.svg)](https://github.com/qishibo)
 [![twitter @qii404](https://img.shields.io/badge/Twitter-@qii404-blue.svg)](https://twitter.com/qii404)
