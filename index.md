@@ -10,7 +10,7 @@ description: A faster, better and more stable redis desktop manager [GUI client]
 
 ## Another Redis Desktop Manager
 
-> <i>Supports redis-sentinel, redis-cluster, ssh-tunnel, ssl-cert, tree view, stream, console, dark mode; Various formatting methods, and even custom formatting scripts, to meet all your needs.</i>
+> <i>Supports redis-sentinel, redis-cluster, ssh-tunnel, ssl-cert, stream, subscribe, tree view, console, dark mode; Various formatting methods, and even custom formatting scripts, to meet all your needs.</i>
 
 [![github @qishibo](https://img.shields.io/badge/Github-@qishibo-blue.svg)](https://github.com/qishibo)
 [![twitter @qii404](https://img.shields.io/badge/Twitter-@qii404-blue.svg)](https://twitter.com/qii404)
