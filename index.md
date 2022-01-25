@@ -6,7 +6,7 @@ description: A faster, better and more stable redis desktop manager [GUI client]
 
 ---
 
-<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/qishibo/img/202109031653244.png">
+<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/qishibo/img/ano-square-icon-128.png">
 
 ## Another Redis Desktop Manager
 
@@ -44,11 +44,15 @@ description: A faster, better and more stable redis desktop manager [GUI client]
 **Mac**:
 - By **brew**: `brew install --cask another-redis-desktop-manager`
 - Or **sponsor** by app store, and then let the app store automatically update it for you.
-<br/>[![app store](https://cdn.jsdelivr.net/gh/qishibo/img/202109031654242.png)](https://apps.apple.com/app/id1516451072)
+<br/>[![app store](https://cdn.jsdelivr.net/gh/qishibo/img/avail_app_store180.svg)](https://apps.apple.com/app/id1516451072)
 
 
 ## Feature Log
 
+- 2022-01-24: Command Dump Support
+- 2022-01-05: Support To Load All Keys
+- 2022-01-01: Brotli\Gzip\Deflate Support && RedisJSON Support
+- 2021-11-26: JSON Editable && Subscribe Support
 - 2021-08-30: Execution log Support && Add Hot Keys
 - 2021-08-16: Custom Formatter View Support
 - 2021-06-30: Sentinel Support
