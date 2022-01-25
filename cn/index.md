@@ -7,7 +7,7 @@ description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼
 ---
 
 {{ site.lang }}
-<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/qishibo/img/202109031653244.png">
+<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/qishibo/img/ano-square-icon-128.png">
 
 ## Another Redis Desktop Manager
 
@@ -46,11 +46,15 @@ description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼
 **Mac** 用户:
 - 通过 **brew**: `brew install --cask another-redis-desktop-manager`
 - 或者通过App Store**赞助**, 然后让App Store帮你自动更新版本
-<br/>[![app store](https://cdn.jsdelivr.net/gh/qishibo/img/202109031654242.png)](https://apps.apple.com/app/id1516451072)
+<br/>[![app store](https://cdn.jsdelivr.net/gh/qishibo/img/avail_app_store180.svg)](https://apps.apple.com/app/id1516451072)
 
 
 ## 里程碑
 
+- 2022-01-24: 导出为命令支持
+- 2022-01-05: 一次性加载全部key支持
+- 2022-01-01: Brotli\Gzip\Deflate\解压缩支持 && RedisJSON支持
+- 2021-11-26: JSON编辑支持 && 订阅支持
 - 2021-08-30: 命令执行日志 && 快捷键
 - 2021-08-16: 自定义文本视图
 - 2021-06-30: 哨兵支持
