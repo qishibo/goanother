@@ -77,7 +77,7 @@ description: A faster, better and more stable redis desktop manager [GUI client]
 - 2019-04-09: SSH Tunnel Connection Support
 - 2019-04-01: Extract Search Support
 - 2019-02-22: Single Connection Support
-- 2019-01-08: Project Start
+- 2019-01-08: Project Start!
 
 
 
