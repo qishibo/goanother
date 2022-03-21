@@ -33,6 +33,8 @@ description: A faster, better and more stable redis desktop manager [GUI client]
 **Windows**: 
 - Download `exe` from [github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) or [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases).
 - Or by **winget**: `winget install qishibo.AnotherRedisDesktopManager`
+- Or **sponsor** by win store, It's not free, and I will be very grateful to you.
+<br/>[![windows store](https://cdn.jsdelivr.net/gh/qishibo/img/windows-store-icon182-56.png)](https://www.microsoft.com/store/apps/9MTD84X0JFHZ)
 
 **Linux**:
 - Download `AppImage` from [github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) or [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases).
@@ -86,6 +88,7 @@ description: A faster, better and more stable redis desktop manager [GUI client]
 - Give me a star ⭐ in [Github](https://github.com/qishibo/AnotherRedisDesktopManager)!
 - Through [OpenCollective](https://opencollective.com/AnotherRedisDesktopManager)
 - Buy from [App Store](https://apps.apple.com/app/id1516451072)
+- Buy from [Win Store](https://www.microsoft.com/store/apps/9MTD84X0JFHZ)
 - Wechat sponsor code
 
   <img width="150px" src="https://cdn.jsdelivr.net/gh/qishibo/img/202109031655807.jpeg" />
