@@ -36,6 +36,8 @@ description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼
 **Windows**:
 - 可以在[github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases)下载`exe`安装包
 - 或者通过**winget**: `winget install qishibo.AnotherRedisDesktopManager`
+- 或者通过Win Store**赞助**, 然后让Win Store帮你自动更新版本
+<br/>[![windows store](https://cdn.jsdelivr.net/gh/qishibo/img/windows-store-icon182-56.png)](https://www.microsoft.com/store/apps/9MTD84X0JFHZ)
 
 **Linux**：
 - 可以在[github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases)下载`AppImage`包
@@ -88,6 +90,7 @@ description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼
 - 在[Github](https://github.com/qishibo/AnotherRedisDesktopManager)上点颗星⭐⭐
 - 通过 [OpenCollective](https://opencollective.com/AnotherRedisDesktopManager)
 - 通过[App Store](https://apps.apple.com/app/id1516451072)购买赞助
+- 通过[Win Store](https://www.microsoft.com/store/apps/9MTD84X0JFHZ)购买赞助
 - 微信赞赏码 [觉得好用就赞助一杯咖啡]
 
   <img width="150px" src="https://cdn.jsdelivr.net/gh/qishibo/img/202109031655807.jpeg" />
