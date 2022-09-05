@@ -33,6 +33,7 @@ description: A faster, better and more stable redis desktop manager [GUI client]
 **Windows**: 
 - Download `exe` from [github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) or [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases).
 - Or by **winget**: `winget install qishibo.AnotherRedisDesktopManager`
+- Or by **chocolatey**: `choco install another-redis-desktop-manager`
 - Or **sponsor** by win store, It's not free, and I will be very grateful to you.
 <br/>[![windows store](https://cdn.jsdelivr.net/gh/qishibo/img/windows-store-icon182-56.png)](https://www.microsoft.com/store/apps/9MTD84X0JFHZ)
 
@@ -44,6 +45,9 @@ description: A faster, better and more stable redis desktop manager [GUI client]
 
 
 **Mac**:
+
+> If you can't open it after installation by brew or dmg, exec the following command then reopen:<br>`sudo xattr -rd com.apple.quarantine /Applications/Another\ Redis\ Desktop\ Manager.app`
+
 - By **brew**: `brew install --cask another-redis-desktop-manager`
 - Or **sponsor** by app store, and then let the app store automatically update it for you.
 <br/>[![app store](https://cdn.jsdelivr.net/gh/qishibo/img/avail_app_store180.svg)](https://apps.apple.com/app/id1516451072)
@@ -51,6 +55,9 @@ description: A faster, better and more stable redis desktop manager [GUI client]
 
 ## Feature Log
 
+- 2022-08-05: Clone Connection && Tabs Contextmenu\Mousewheel Support
+- 2022-04-01: Protobuf Support && Memory Analysis
+- 2022-03-03: Readonly Mode && Mointor Support
 - 2022-01-24: Command Dump Support
 - 2022-01-05: Support To Load All Keys
 - 2022-01-01: Brotli\Gzip\Deflate Support && RedisJSON Support
