@@ -7,7 +7,7 @@ description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼
 ---
 
 {{ site.lang }}
-<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/qishibo/img/ano-square-icon-128.png">
+<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/qishibo/img/ardm/202411081958294.png">
 
 ## Another Redis Desktop Manager
 

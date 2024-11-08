@@ -6,7 +6,7 @@ description: A faster, better and more stable redis desktop manager [GUI client]
 
 ---
 
-<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/qishibo/img/ano-square-icon-128.png">
+<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/qishibo/img/ardm/202411081958294.png">
 
 ## Another Redis Desktop Manager
 
