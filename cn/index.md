@@ -1,7 +1,7 @@
 ---
 
 lang: zh-CN
-description: 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值
+description: 更快、更好、更稳定的Redis桌面客户端(Redis GUI)，兼容Windows、Mac、Linux，性能出众，界面精美，轻松加载海量键值
 
 
 ---
