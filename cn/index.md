@@ -23,11 +23,11 @@ description: 更快、更好、更稳定的Redis桌面客户端(Redis GUI)，兼
 
 ## 界面展示
 
-![redis status dark](https://cdn.jsdelivr.net/gh/qishibo/img/ardm/202411081318491.png)
+![redis status dark](https://cdn.jsdelivr.net/gh/qishibo/img/ardm/20260729160531924.png)
 
-![redis key dark](https://cdn.jsdelivr.net/gh/qishibo/img/ardm/202411081318490.png)
+![redis key dark](https://cdn.jsdelivr.net/gh/qishibo/img/ardm/20260729160542512.png)
 
-![redis exec log](https://cdn.jsdelivr.net/gh/qishibo/img/ardm/202411081318492.png)
+![redis exec log](https://cdn.jsdelivr.net/gh/qishibo/img/ardm/20260729160550004.png)
 
 
 <span id="download"></span>
@@ -61,6 +61,8 @@ description: 更快、更好、更稳定的Redis桌面客户端(Redis GUI)，兼
 
 ## 里程碑
 
+- 2026-07-29: 链接分组支持
+- 2025-10-01: 好久不见，新功能马上归来
 - 2024-11-03: 支持从文件批量导入命令并执行
 - 2024-10-07: Hash键值支持TTL(Redis>=7.4)
 - 2024-06-06: 搜索链接支持
